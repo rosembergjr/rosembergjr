@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Olá, eu meu nome é Rosemberg Junior
 
-<!--
-**rosembergjr/rosembergjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em aprendizado apaixonado por tecnologia, criatividade e criação de projetos.
+🚀 Atualmente estudando JavaScript, HTML, CSS e desenvolvimento web.
+🎯 Buscando evoluir cada vez mais como desenvolvedor e criar projetos úteis e criativos.
 
-Here are some ideas to get you started:
+🛠️ Tecnologias que estou aprendendo
+HTML5
+CSS3
+JavaScript
+Python
+Git & GitHub
+📌 Sobre mim
+🎨 Gosto de criar ideias e conceitos visuais
+📹 Também trabalho com edição de vídeo
+📚 Sempre aprendendo algo novo
+⚡ Curto transformar ideias em projetos reais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projetos em destaque
+📌 Aplicação de cálculo de juros
+📌 Projeto Hora do Dia
+📌 Exercícios e desafios em JavaScript
+
+📫 Contato
+📧 rosemberg.leandrojr@gmail.com
+📸 Instagram: @eubergjunior
+💼 LinkedIn: www.linkedin.com/in/rosembergjunior
+
+⭐ “Pequenos projetos constroem grandes habilidades.”
