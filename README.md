@@ -17,8 +17,8 @@ Git & GitHub
 ⚡ Curto transformar ideias em projetos reais
 
 🚀 Projetos em destaque
-📌 Aplicação de cálculo de juros
-📌 Projeto Hora do Dia
+📌 Loja Online Me encontra Lá
+📌 Site Consultoria de Personal Trainer
 📌 Exercícios e desafios em JavaScript
 
 📫 Contato
